@@ -1,2 +1,2 @@
-# coursera-assignment5
+# Restaurant site
 Restaurant site
